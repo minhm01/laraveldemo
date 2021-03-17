@@ -11,7 +11,7 @@
         }
         ?>
     <div class="panel-heading">
-      danh mục sản phẩm
+      thương hiệu sản phẩm
     </div>
     <div class="row w3-res-tb">
       <div class="col-sm-5 m-b-xs">
@@ -49,21 +49,21 @@
           </tr>
         </thead>
         <tbody>
-          @foreach($all_cat as $key => $cate_pro)
+          @foreach($all_brand as $key => $brand_pro)
           <tr>
             <td><label class="i-checks m-b-none"><input type="checkbox" name="post[]"><i></i></label></td>
-            <td>{{$cate_pro->category_name}}</td>
+            <td>{{$brand_pro->brand_name}}</td>
             <td><span class="text-ellipsis">
             <?php
-            if($cate_pro->category_stt==0){ ?>
-            <a href="{{URL::to('/active-category/'.$cate_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
+            if($brand_pro->brand_stt==0){ ?>
+            <a href="{{URL::to('/active-brand/'.$brand_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
             <?php }else{ ?>
-            <a href="{{URL::to('/unactive-category/'.$cate_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
+            <a href="{{URL::to('/unactive-brand/'.$brand_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
             <?php } ?>
             </span></td>
             <td>
-              <a href="{{URL::to('/edit-category/'.$cate_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
-              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-category/'.$cate_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
+              <a href="{{URL::to('/edit-brand/'.$brand_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
+              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-brand/'.$brand_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
             </td>
           </tr>
           @endforeach

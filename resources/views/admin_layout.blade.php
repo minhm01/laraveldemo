@@ -269,8 +269,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <span>Tổng quan</span>
                     </a>
                 </li>
-                
-                <li class="sub-menu">
+                                <li class="sub-menu">
                     <a href="javascript:;">
                         <i class="fa fa-book"></i>
                         <span>Danh mục sản phẩm</span>
@@ -278,6 +277,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <ul class="sub">
 						<li><a href="{{URL::to('/all-category')}}">Danh sách</a></li>
 						<li><a href="{{URL::to('/add-category')}}">Thêm</a></li>                        
+                    </ul>
+                </li>
+                <li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-book"></i>
+                        <span>Thương hiệu</span>
+                    </a>
+                    <ul class="sub">
+						<li><a href="{{URL::to('/all-brand')}}">Danh sách</a></li>
+						<li><a href="{{URL::to('/add-brand')}}">Thêm</a></li>                        
+                    </ul>
+                </li>
+                <li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-book"></i>
+                        <span>Sản phẩm</span>
+                    </a>
+                    <ul class="sub">
+						<li><a href="{{URL::to('/all-pro')}}">Danh sách</a></li>
+						<li><a href="{{URL::to('/add-pro')}}">Thêm</a></li>                        
                     </ul>
                 </li>
 

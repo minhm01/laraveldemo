@@ -43,9 +43,14 @@ class CategoryProduct extends Controller
     }
     public function upd_cat(Request $request,$id){
         $data = array();
-        $data['category_name'] = $request->category_name;
+        $data['category_name'] = $request->cat_name;
         DB::table('tb1_category_product')->where('id',$id)->update($data);
         Session::put('message','Đã cập nhật');
+        return Redirect::to('all-category');
+    }
+    public function del_cat($id){
+        DB::table('tb1_category_product')->where('id',$id)->delete();
+        Session::put('message','Đã xóa');
         return Redirect::to('all-category');
     }
 }
