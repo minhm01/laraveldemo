@@ -56,14 +56,14 @@
             <td><span class="text-ellipsis">
             <?php
             if($cate_pro->category_stt==0){ ?>
-            <a href="{{URL::to('/active-category/'.$cate_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
+            <a href="{{URL::to('/active-category/'.$cate_pro->category_id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
             <?php }else{ ?>
-            <a href="{{URL::to('/unactive-category/'.$cate_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
+            <a href="{{URL::to('/unactive-category/'.$cate_pro->category_id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
             <?php } ?>
             </span></td>
             <td>
-              <a href="{{URL::to('/edit-category/'.$cate_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
-              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-category/'.$cate_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
+              <a href="{{URL::to('/edit-category/'.$cate_pro->category_id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
+              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-category/'.$cate_pro->category_id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
             </td>
           </tr>
           @endforeach

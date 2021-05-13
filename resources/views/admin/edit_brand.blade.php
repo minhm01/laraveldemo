@@ -7,7 +7,7 @@
     <div class="panel-body">
         @foreach($edit_brand as $key => $edit_value)
         <div class="position-center">            
-            <form role="form" method="post" action="{{URL::to('/update-brand/'.$edit_value->id)}}">
+            <form role="form" method="post" action="{{URL::to('/update-brand/'.$edit_value->brand_id)}}">
             {{csrf_field() }}
             <div class="form-group">
                 <label for="brand_name">Tên thương hiệu</label>

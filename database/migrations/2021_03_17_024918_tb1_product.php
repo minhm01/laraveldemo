@@ -14,7 +14,7 @@ class Tb1Product extends Migration
     public function up()
     {
         Schema::create('tb1_product', function (Blueprint $table) {
-            $table->id();
+            $table->bigIncrements("product_id");
             $table->string("product_name");
             $table->string("product_price");
             $table->string("product_image");
@@ -22,7 +22,8 @@ class Tb1Product extends Migration
             $table->integer("category_id");
             $table->text("product_content");
             $table->integer("product_stt");
-            $table->timestamps();
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->default(DB::raw('NULL ON UPDATE CURRENT_TIMESTAMP'))->nullable();
         });
     }
 

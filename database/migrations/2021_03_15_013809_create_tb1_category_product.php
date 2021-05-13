@@ -14,10 +14,11 @@ class CreateTb1CategoryProduct extends Migration
     public function up()
     {
         Schema::create('tb1_category_product', function (Blueprint $table) {
-            $table->id();
+            $table->bigIncrements("category_id");
             $table->string("category_name");
             $table->integer("category_stt");
-            $table->timestamps();
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->default(DB::raw('NULL ON UPDATE CURRENT_TIMESTAMP'))->nullable();
         });
     }
 

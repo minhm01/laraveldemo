@@ -32,7 +32,7 @@
                 <select name="pro_cat" class="form-control input-sm m-bot15" required>
                     <option value="" disabled selected hidden>Chọn danh mục</option>
                     @foreach($pro_cat as $key => $cat)
-                    <option value="{{$cat->id}}">{{$cat->category_name}}</option>
+                    <option value="{{$cat->category_id}}">{{$cat->category_name}}</option>
                     @endforeach
                 </select>
             </div> 
@@ -41,7 +41,7 @@
                 <select name="pro_brand" class="form-control input-sm m-bot15" required>
                     <option value="" disabled selected hidden>Chọn thương hiệu</option>
                     @foreach($pro_brand as $key => $brand)
-                    <option value="{{$brand->id}}">{{$brand->brand_name}}</option>
+                    <option value="{{$brand->brand_id}}">{{$brand->brand_name}}</option>
                     @endforeach
                 </select>
             </div> 

@@ -17,7 +17,8 @@ class CreateTb1AdminTable extends Migration
             $table->id();
             $table->string('admin_email')->unique();
             $table->string('password');
-            $table->timestamps();
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->default(DB::raw('NULL ON UPDATE CURRENT_TIMESTAMP'))->nullable();
         });
     }
 

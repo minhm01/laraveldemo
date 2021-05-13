@@ -14,10 +14,11 @@ class Tb1BrandProduct extends Migration
     public function up()
     {
         Schema::create('tb1_brand_product', function (Blueprint $table) {
-            $table->id();
+            $table->bigIncrements("brand_id");
             $table->string("brand_name");
             $table->integer("brand_stt");
-            $table->timestamps();
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->default(DB::raw('NULL ON UPDATE CURRENT_TIMESTAMP'))->nullable();
         });
     }
 

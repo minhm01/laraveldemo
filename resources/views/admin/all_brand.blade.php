@@ -56,14 +56,14 @@
             <td><span class="text-ellipsis">
             <?php
             if($brand_pro->brand_stt==0){ ?>
-            <a href="{{URL::to('/active-brand/'.$brand_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
+            <a href="{{URL::to('/active-brand/'.$brand_pro->brand_id)}}"><span class="fa-thumb-styling fa fa-thumbs-down"></span></a>
             <?php }else{ ?>
-            <a href="{{URL::to('/unactive-brand/'.$brand_pro->id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
+            <a href="{{URL::to('/unactive-brand/'.$brand_pro->brand_id)}}"><span class="fa-thumb-styling fa fa-thumbs-up"></span></a>
             <?php } ?>
             </span></td>
             <td>
-              <a href="{{URL::to('/edit-brand/'.$brand_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
-              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-brand/'.$brand_pro->id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
+              <a href="{{URL::to('/edit-brand/'.$brand_pro->brand_id)}}" class="active" ui-toggle-class=""><i class="fa fa-pencil-square"></i></a>
+              <a onclick="return confirm('Xóa?')" href="{{URL::to('/del-brand/'.$brand_pro->brand_id)}}" class="active" ui-toggle-class=""><i class="fa fa-trash"></i></a>
             </td>
           </tr>
           @endforeach

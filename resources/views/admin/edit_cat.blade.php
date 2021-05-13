@@ -7,7 +7,7 @@
     <div class="panel-body">
         @foreach($edit_cat as $key => $edit_value)
         <div class="position-center">            
-            <form role="form" method="post" action="{{URL::to('/update-category/'.$edit_value->id)}}">
+            <form role="form" method="post" action="{{URL::to('/update-category/'.$edit_value->category_id)}}">
             {{csrf_field() }}
             <div class="form-group">
                 <label for="cat_name">Tên danh mục</label>
