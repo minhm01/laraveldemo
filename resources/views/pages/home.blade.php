@@ -37,7 +37,7 @@
 			</div>
 			<div class="menu_left">
 				<h2 class="tit_left  visible-xs visible-sm visible-md visible-lg">
-					<a href="https://www.sieuthivienthong.com/" title="Thương hiệu sản phẩm">Thương hiệu sản phẩm</a>
+					<a href="#" title="Thương hiệu sản phẩm">Thương hiệu sản phẩm</a>
 				</h2>
 				<div class="clearfix  visible-sm visible-md"></div>
 				<nav class="nav is-fixed" role="navigation" style="position: relative;z-index: 5;">
@@ -58,17 +58,17 @@
 					Hỗ trợ kinh doanh
 				</h2>
 				<div class="suppot_left">								
-					<div class="box_support">Ms. Lê: 0916 514 469 <span class="number_support"></span><div class="clearfix"></div><a class="icon_support" href="skype:sieuthivienthong.com_kinhdoanh4?chat" style="display: inline;"><img src="./Camera,camera ip - SIEU THI VIEN THONG_files/sp_sky.png"></a> <div class="clear"></div></div><div class="clearfix"></div>
-					<div class="box_support">Ms. Nhi:  0918 891 771 <span class="number_support"></span><div class="clearfix"></div><a class="icon_support" href="skype:live:vienthongachau14?chat" style="display: inline;"><img src="./Camera,camera ip - SIEU THI VIEN THONG_files/sp_sky.png"></a> <div class="clear"></div></div><div class="clearfix"></div>							
+					<div class="box_support">Ms. Minh: 058 4433 413<span class="number_support"></span><div class="clearfix"></div><a class="icon_support" href="skype:sieuthivienthong.com_kinhdoanh4?chat" style="display: inline;"><img src="./Camera,camera ip - SIEU THI VIEN THONG_files/sp_sky.png"></a> <div class="clear"></div></div><div class="clearfix"></div>
+					
 				</div>
 				<div class="clearfix clearfix-13 visible-sm visible-md visible-lg"></div>
 				<h2 class="tit_left">Hỗ trợ bảo hành kỹ thuật</h2>
 				<div class="clearfix"></div>
-				<div class="box_htbhkt"><img class="icon_htbhkt" src="./Camera,camera ip - SIEU THI VIEN THONG_files/icon_htbhkt.png" alt="">(028) 73 00 20 49</div>
+				<div class="box_htbhkt"><i class="fa fa-phone icon_htbhkt"></i>058 4433 413</div>
 				<div class="clearfix clearfix-13"></div>
 				<h2 class="tit_left">Chăm sóc khách hàng</h2>
 				<div class="clearfix"></div>
-				<div class="box_htcskt"><img class="icon_htbhkt" src="./Camera,camera ip - SIEU THI VIEN THONG_files/icon_cskh.png" alt="">0916 287 068</div>
+				<div class="box_htcskt"><i class="fa fa-phone icon_htbhkt"></i>058 4433 413</div>
 				<div class="clearfix clearfix-13"></div>
 			</div>	
 		</div>

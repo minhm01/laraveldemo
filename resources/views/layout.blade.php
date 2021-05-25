@@ -129,17 +129,33 @@ if($msg){
         </div>
     </div>
     <div class="clearfix"></div>
-	    <div class="slider_full">
+	<div class="slider_full">
         <div id="slider1_container" style="position: relative; margin: 0px auto; top: 0px; left: 0px; width: 1349px; height: 373.723px; overflow: hidden;">
-        <div style="position: absolute; top: 0px; left: 0px; width: 1350px; height: 374px; transform-origin: 0px 0px; transform: scale(0.999259);"><div class="" style="position: relative; margin: 0px auto; top: 0px; left: 0px; width: 1350px; height: 374px; overflow: visible;"><div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1350px; height: 374px; overflow: hidden; z-index: 0;"><div debug-id="slide_container" style="position: absolute; z-index: 0; left: -1350px; top: 0px;"></div></div><div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1350px; height: 374px; overflow: hidden; z-index: 0;" debug-id="slide-board"><div style="width: 1350px; height: 374px; top: 0px; left: 0px; position: absolute; background-color: rgb(0, 0, 0); opacity: 0;"></div>
-			<div debug-id="slide-0" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="{{URL::to('public/frontend/images/logo.png')}}" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-1" style="width: 1350px; height: 374px; top: 0px; left: 0px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="{{URL::to('public/frontend/images/logo.png')}}" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-2" style="width: 1350px; height: 374px; top: 0px; left: 1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (11).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-3" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (12).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-4" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (13).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-5" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (14).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-6" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (15).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-7" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (16).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-8" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (17).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-9" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (18).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-10" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (19).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-11" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (2).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-12" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (3).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-13" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (4).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-14" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (5).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-15" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (6).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-16" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (7).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-17" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (8).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div><div debug-id="slide-18" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);"><a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="./Camera,camera ip - SIEU THI VIEN THONG_files/hinh_baner_web_3-2018 (9).jpg" style="transform: perspective(2000px);"></a><div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div>	
-            </div><div u="navigator" class="jssorb21" style="position: absolute; bottom: 26px; left: 422.5px; width: 505px; height: 19px;">
-                
-            <div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 0px; top: 0px;" class=""></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 27px; top: 0px;" class="av"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 54px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 81px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 108px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 135px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 162px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 189px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 216px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 243px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 270px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 297px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 324px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 351px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 378px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 405px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 432px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 459px; top: 0px;"></div><div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 486px; top: 0px;"></div></div><span u="arrowleft" class="jssora21l" style="width: 55px; height: 55px; top: 159.5px; left: 0px; display: none;">
-
-            </span><span u="arrowright" class="jssora21r" style="width: 55px; height: 55px; top: 159.5px; right: 0px; display: none;">
-
-            </span></div></div></div>
+            <div style="position: absolute; top: 0px; left: 0px; width: 1350px; height: 374px; transform-origin: 0px 0px; transform: scale(0.999259);">
+                <div class="" style="position: relative; margin: 0px auto; top: 0px; left: 0px; width: 1350px; height: 374px; overflow: visible;">
+                    <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1350px; height: 374px; overflow: hidden; z-index: 0;">
+                        <div debug-id="slide_container" style="position: absolute; z-index: 0; left: -1350px; top: 0px;"></div>
+                    </div>
+                    <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1350px; height: 374px; overflow: hidden; z-index: 0;" debug-id="slide-board">
+                        <div style="width: 1350px; height: 374px; top: 0px; left: 0px; position: absolute; background-color: rgb(0, 0, 0); opacity: 0;"></div>
+			            <div debug-id="slide-0" style="width: 1350px; height: 374px; top: 0px; left: -1350px; position: absolute; overflow: hidden; transform: perspective(2000px);">
+                            <a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="{{URL::to('images/1.jpg')}}" style="transform: perspective(2000px);"></a>
+                            <div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div>
+                        </div>
+                        <div debug-id="slide-1" style="width: 1350px; height: 374px; top: 0px; left: 0px; position: absolute; overflow: hidden; transform: perspective(2000px);">
+                            <a href="{{URL::to('trangchu')}}" style="transform: perspective(2000px);"><img u="image" src="{{URL::to('images/3.jpg')}}" style="transform: perspective(2000px);"></a>
+                            <div style="width: 1350px; height: 374px; top: 0px; left: 0px; z-index: 1000; display: none;"></div>
+                        </div>                        
+                    </div>
+                    <div u="navigator" class="jssorb21" style="position: absolute; bottom: 26px; left: 422.5px; width: 505px; height: 19px;">                
+                        <div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 0px; top: 0px;" class=""></div>
+                        <div u="prototype" style="position: absolute; width: 19px; height: 19px; text-align: center; line-height: 19px; color: white; font-size: 12px; left: 27px; top: 0px;" class="av"></div>
+                    </div>
+                    <span u="arrowleft" class="jssora21l" style="width: 55px; height: 55px; top: 159.5px; left: 0px; display: none;"></span>
+                    <span u="arrowright" class="jssora21r" style="width: 55px; height: 55px; top: 159.5px; right: 0px; display: none;"></span>
+                </div>
+            </div>
+        </div>
     </div>
 	</header><article>
     <div class="clearfix clearfix-23 visible-xs visible-sm visible-md visible-lg"></div>
@@ -214,117 +230,92 @@ $(function() {
             <div class="col-md-2 col-sm-3 col-sm-12">
                 <div class="row">
                     <div class="home_right">
-				<h2 class="tit_right visible-sm visible-md visible-lg" style="text-align: center;">
-				Quảng cáo
-			    </h2>
-			<div class="clearfix visible-sm visible-md visible-lg"></div>
-			<div class="quang_cao visible-sm visible-md visible-lg">
-				<a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-do-than-nhiet-flus/1105/category.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_81.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-cham-cong-van-tay-va-the-cam-ung-ronald-jack-dg-600id-12482.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_186.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-chieu-sony-vpl-ex455-21848.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_187.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/dien-thoai-ip-grandstream-gxp1625-13164.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_188.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/2-port-101001000mbps--8-port-poe-switch-tenda-tef1110p-102w-24810.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_189.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://sieuthivienthong.com/camera-ip-robot-hong-ngoai-khong-day-4.0-megapixel-vantech-ai-v2010c-38017.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_191.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://sieuthivienthong.com/khung-phu-tong-dai-panasonic-kx-ns320-11102.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_192.jpg" alt="" width="160" style="border: 2px solid #000080"></a>			</div>
-            <div class="clearfix clearfix-13 visible-sm visible-md visible-lg"></div>
-				<h2 class="tit_right">
-			Giải pháp kỹ thuật
-		</h2>
-		<div class="clearfix"></div>
-		<ul class="list_dvkt">
-			<li><div class="box_dvkt"><div class="name_dvkt"><a href="https://www.sieuthivienthong.com/lap-dat-camera-cho-sieu-thi/44/faqtech.html" target="_blank">Lắp đặt camera cho siêu thị</a></div><div class="clearfix"></div><div class="img_dvkt"><a href="https://www.sieuthivienthong.com/lap-dat-camera-cho-sieu-thi/44/faqtech.html" target="techWindow" onclick="openTech(&#39;/lap-dat-camera-cho-sieu-thi/44/faqtech.html&#39;)"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/45.jpg" border="0" width="140px;" alt="Lắp đặt camera cho siêu thị"></a></div></div></li>
-		</ul>
-        <div class="clearfix clearfix-13"></div>
-	    <div class="clearfix clearfix-13"></div>
-		<h2 class="tit_right pd_tktc">
-			Thống kê truy cập
-		</h2>
-		<div class="thongke_truycap">
-			66.330.059	
-		</div>
-	</div>
-</div>
-<script type="text/javascript">
-	function updateFilter(filterId, isMulti, val){
-				return $("#filterform").submit();
-	}
-</script>		  
-<!------------------------------------------ ende content right -------------->	                </div>
-            </div>
-            <div class="clearfix clearfix-20"></div>
-            <div class="ma-onsaleproductslider-container module-top slider_logo_bot  visible-sm visible-md visible-lg">
-                <div class="row">
-					<div class="clearfix clearfix-13"></div>
-					<div class="khachhang_tieubieu">KHÁCH HÀNG TIÊU BIỂU</div>
-					<div class="clearfix clearfix-13"></div>
-                    <ul class="owl owl-carousel owl-theme" style="opacity: 1; display: block;">
-						<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 12928px; left: 0px; display: block;"><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">Công ty CP BIBICA</a><div class="clearfix"></div>Hệ Thống Tổng đài nội bộ, hệ thống VoIP </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT KIÊN GIANG</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/THIET-BI-MANG/111/category.html" target="khtb">Trường Đại Học Hùng Vương</a><div class="clearfix"></div>Hệ Thống mạng máy tính </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">TRUNG TÂM ĐÀO TẠO QUỐC TẾ (ITEC)- TRƯỜNG ĐH KHOA HỌC TỰ NHIÊN</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công ty CP BIBICA</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY CP XI MĂNG NGHI SƠN</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">BỆNH VIỆN QUỐC TẾ CHẤN THƯƠNG CHỈNH HÌNH SÀI GÒN</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Chợ Nông Sản Thủ Đức</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công ty CP May Việt Thắng</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH ĐIỀU HÒA REE VIỆT NAM</a><div class="clearfix"></div>HỆ THỐNG TỔNG ĐÀI ĐỆN THOẠI </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH PHÁT TRIỂN GIÁO DỤC VƯƠNG QUỐC ANH</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Chợ Bình Điền</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY CP ĐẦU TƯ VÀ PHÁT TRIỂN BẤT ĐỘNG SẢN AN GIA</a><div class="clearfix"></div>HỆ THỐNG TỔNG ĐÀI ĐỆN THOẠI </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">Khách sạn NORFORK</a><div class="clearfix"></div>Hệ Thống Tổng Đài Nội Bộ </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công ty ISUZU</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY CP ĐẦU TƯ XÂY DỰNG SỐ 5</a><div class="clearfix"></div>HỆ THỐNG CAMERA GIÁM SÁT, MẠNG, TỔNG ĐÀI </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH ĐẦU TƯ ĐỊA ỐC THÀNH PHỐ-CITYLAND</a><div class="clearfix"></div>HỆ THỐNG CAMERA QUAN SÁT, TỔNG ĐÀI ĐIỆN THOẠI, MẠNG </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">UBND Quận Gò Vấp</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">VP Phía Nam Bộ Tài Chính</a><div class="clearfix"></div>Hệ Thống Tổng Đài Nội Bộ </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH SÂN GOLF PALM</a><div class="clearfix"></div>HỆ THỐNG ÂM THANH THÔNG BÁO </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Trường Quốc Tế Mỹ</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY CỔ PHẦN XI MĂNG CẨM PHẢ</a><div class="clearfix"></div>HỆ THỐNG CAMERA QUAN SÁT </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Trường Anh Ngữ Quốc Tế Elite</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công ty May Sài Gòn</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công Ty TNHH BIOFEED</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="{{URL::to('trangchu')}}#">CÔNG TY TNHH KSB VIỆT NAM</a><div class="clearfix"></div>HỆ THỐNG TỔNG ĐÀI IP-ANALOG PANASONIC </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">Công Ty Thế Kỷ 21</a><div class="clearfix"></div>Hệ Thống Tổng Đài Nội Bộ </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công Ty Phát Triển Nhà Thủ Đức</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">Công Ty CP Đường Biên Hòa</a><div class="clearfix"></div>Hệ Thống Tổng Đài Nội Bộ </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Tong-dai-dien-thoai/2/category.html" target="khtb">Công Ty CP Truyền Thông Thanh Niên</a><div class="clearfix"></div>Hệ Thống Tổng Đài Nội Bộ </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Ngân hàng Vietcombank</a><div class="clearfix"></div>Hệ Thống Camera quan sát </div> </div></li></div><div class="owl-item" style="width: 202px;"><li class="onsaleproductslider-item item"><div class="item-inner"><div class="logo_bot"><a class="h_677" href="http://www.sieuthivienthong.com/Camera-quan-sat/67/category.html" target="khtb">Công Ty CP Thức Ăn NOVA</a><div class="clearfix"></div>Hệ Thống Camera Quan Sát </div> </div></li></div></div></div>			        <div class="owl-controls clickable"><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></ul>
+                        <h2 class="tit_right visible-sm visible-md visible-lg" style="text-align: center;">
+                            Quảng cáo
+                        </h2>
+                        <div class="clearfix visible-sm visible-md visible-lg"></div>
+                        <div class="quang_cao visible-sm visible-md visible-lg">
+                            <a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-do-than-nhiet-flus/1105/category.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_81.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-cham-cong-van-tay-va-the-cam-ung-ronald-jack-dg-600id-12482.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_186.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/may-chieu-sony-vpl-ex455-21848.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_187.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/dien-thoai-ip-grandstream-gxp1625-13164.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_188.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://www.sieuthivienthong.com/2-port-101001000mbps--8-port-poe-switch-tenda-tef1110p-102w-24810.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_189.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://sieuthivienthong.com/camera-ip-robot-hong-ngoai-khong-day-4.0-megapixel-vantech-ai-v2010c-38017.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_191.jpg" alt="" width="160" style="border: 2px solid #000080"></a><a class="box_qc" target="frsite" href="http://sieuthivienthong.com/khung-phu-tong-dai-panasonic-kx-ns320-11102.html" rel="nofollow"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/p_192.jpg" alt="" width="160" style="border: 2px solid #000080"></a>			
+                        </div>
+                        <div class="clearfix clearfix-13 visible-sm visible-md visible-lg"></div>
+                        <h2 class="tit_right">
+                            Giải pháp kỹ thuật
+                        </h2>
+                        <div class="clearfix"></div>
+                        <ul class="list_dvkt">
+                            <li><div class="box_dvkt"><div class="name_dvkt"><a href="https://www.sieuthivienthong.com/lap-dat-camera-cho-sieu-thi/44/faqtech.html" target="_blank">Lắp đặt camera cho siêu thị</a></div><div class="clearfix"></div><div class="img_dvkt"><a href="https://www.sieuthivienthong.com/lap-dat-camera-cho-sieu-thi/44/faqtech.html" target="techWindow" onclick="openTech(&#39;/lap-dat-camera-cho-sieu-thi/44/faqtech.html&#39;)"><img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/45.jpg" border="0" width="140px;" alt="Lắp đặt camera cho siêu thị"></a></div></div></li>
+                        </ul>
+                        <div class="clearfix clearfix-13"></div>
+                        <div class="clearfix clearfix-13"></div>
+                        <h2 class="tit_right pd_tktc">
+                            Thống kê truy cập
+                        </h2>
+                        <div class="thongke_truycap">
+                            66.330.059	
+                        </div>
+                    </div>
                 </div>
-				                <script type="text/javascript">
-                    $jq(document).ready(function () {
-                        $jq(".ma-onsaleproductslider-container .owl").owlCarousel({
-                            autoPlay: false,
-                            items: 5,
-                            itemsDesktop: [1199, 4],
-                            itemsDesktopSmall: [980, 3],
-                            itemsTablet: [768, 2],
-                            itemsMobile: [479, 1],
-                            slideSpeed: 1000,
-                            paginationSpeed: 3000,
-                            rewindSpeed: 3000,
-                            navigation: true,
-                            stopOnHover: true,
-                            pagination: false,
-                            scrollPerPage: true,
-                        });
-                    });
-                </script>
-
                 <script type="text/javascript">
-                    if (typeof MA == 'undefined') MA = {};
-                    MA.QuickView = {
-                        CATEGORY_ENABLE: 'true',
-                        BASE_URL: '',
-                        PARENT_ELEMENT: 'item-inner',
-                        CHILDREN_ELEMENT: 'actions'
-                    };
-                    initQuickButton('.ma-newproductslider-container');
-                    initQuickButton('.ma-onsaleproductslider-container');
-                    initQuickButton('.category-tab-container');
-                    initQuickButton('.ma-featuredproductslider-container');
-                </script>
-
+                    function updateFilter(filterId, isMulti, val){
+                                return $("#filterform").submit();
+                    }
+                </script>		  
             </div>
-
-            <div class="clearfix  visible-sm visible-md visible-lg"></div>
-            
-        
         </div>
-    
+        <script type="text/javascript">
+            $jq(document).ready(function () {
+                $jq(".ma-onsaleproductslider-container .owl").owlCarousel({
+                    autoPlay: false,
+                    items: 5,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [980, 3],
+                    itemsTablet: [768, 2],
+                    itemsMobile: [479, 1],
+                    slideSpeed: 1000,
+                    paginationSpeed: 3000,
+                    rewindSpeed: 3000,
+                    navigation: true,
+                    stopOnHover: true,
+                    pagination: false,
+                    scrollPerPage: true,
+                });
+            });
+        </script>
+        <script type="text/javascript">
+            if (typeof MA == 'undefined') MA = {};
+            MA.QuickView = {
+                CATEGORY_ENABLE: 'true',
+                BASE_URL: '',
+                PARENT_ELEMENT: 'item-inner',
+                CHILDREN_ELEMENT: 'actions'
+            };
+            initQuickButton('.ma-newproductslider-container');
+            initQuickButton('.ma-onsaleproductslider-container');
+            initQuickButton('.category-tab-container');
+            initQuickButton('.ma-featuredproductslider-container');
+        </script>
+    </div>  
+    <div class="clearfix  visible-sm visible-md visible-lg"></div>
+</div>
 </article>
 <div class="clearfix"></div>
 <footer class="footer">
-
     <div class="main_footer">
         <div class="container">
             <div class="row_pc">
                 <div class="row">
-					<div class="col-md-3 col-sm-3 col-xs-6 col-480-12">
-                        <div class="tit_footer">
-                            Công ty CP Viễn Thông Á Châu
+					<div class="col-md-4 col-sm-4 col-xs-6 col-480-12">
+                        <div class="tit_footer">Công ty TNHH Giáo dục & Công Nghệ Nobicode</div>
+                        <div class="clearfix"></div>						
+                        <div style="color: #FFFFFF">
+                            Trụ sở chính: 110 Đường số 2, Phường Trường Thọ, Quận Thủ Đức, TP. Hồ Chí Minh<br>
+                            Chi nhánh: 174/33/23 Nguyễn Tư Giản, P.12, Quận Gò Vấp, TP. Hồ Chí Minh
+                            <div class="clearfix clearfix-5"></div>
+                            Điện thoại: (+84) 929.7777.27                            
+                            <div class="clearfix clearfix-5"></div>
+                            Email: info@nobicode.net
                         </div>
-                        <div class="clearfix"></div>
-						<div class="txt_boz">
-							Giấy phép kinh doanh số 4103006445 do Sở Kế Hoạch và Đầu Tư Tp.HCM cấp ngày 17/04/2007
-						</div>	
-						<div class="clearfix"></div>
-                        <div class="contact_company_ft">
-                            Địa chỉ: 92K Nguyễn Thái Sơn, Phường 3, Quận Gò Vấp, Tp.HCM
-                            <div class="clearfix clearfix-5"></div>
-                            Điện thoại: ‎<a style="color: #FFFFFF" href="tel:(028) 7300 1535">(028) 7300 1535</a>
-                            <div class="clearfix clearfix-5"></div>
-                            Fax: (028) 35 88 63 56
-                            <div class="clearfix clearfix-5"></div>
-                            Email: info@sieuthivienthong.com
-                        </div>
-
-                        <div class="clearfix"></div>
-                        
-                    </div>
+                    </div>                              
                     <div class="col-md-3 col-sm-3 col-xs-6 col-480-12">
                         <div class="pd_left_lg_15">
                             <div class="tit_footer">
@@ -363,26 +354,8 @@ $(function() {
                             </ul>
                         </div>
                     </div>
-					<div class="col-md-3 col-sm-3 col-xs-6 col-480-12">
+					<div class="col-md-2 col-sm-2 col-xs-6 col-480-12">
                         <div class="pd_left_lg_15">
-							<div class="tit_footer">
-							</div>
-							<div class="txt_boz">
-                                Hỗ thợ thanh toán
-                            </div>
-							<img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/ho_tro_thanh_toan.png" border="0">
-							
-                            <div class="clearfix"></div>
-							
-							<div class="txt_boz">
-                                Chứng nhận
-                            </div>
-							<a href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=764" target="tmdt">
-								<img class="w_100" src="./Camera,camera ip - SIEU THI VIEN THONG_files/dathongbao1.png" border="0">
-							</a>		
-							
-                            <div class="clearfix"></div>
-							
 							<div class="tit_footer">
                                 Chia sẻ Mạng xã hội
                             </div>
@@ -407,9 +380,7 @@ $(function() {
                     </div>
 					
 					<div class="clearfix clearfix-5"></div>
-					 <div class="txt_boz" style="text-align: center;">	
-						© Copyright <span id="copyright-year">2006 - 2021</span> by sieuthivienthong.com. All Rights Reserved.
-					</div>		
+					 		
 						
                 </div>
             </div>
@@ -476,6 +447,6 @@ gtag('event','click',{'event_category':'Muangay','event_label': jQuery('#cartart
 
 }) 
 </script>
-<div style="position:fixed;right: 10px;bottom: 30px;"><a href="tel:(028) 7300 1535"><img style="width: 50px;" src="./Camera,camera ip - SIEU THI VIEN THONG_files/index_nut_call_3.gif" <="" a=""></a></div><a href="tel:(028) 7300 1535">
+
 
 </a><script type="text/javascript" id="">if(-1!=window.location.href.indexOf("xacnhanthongtin")){var price=0;jQuery("#cartarticles tbody tr").each(function(){var a=parseFloat(jQuery("td:last-child",this).text().replace(/[VND.]/g,"").trim());price+=a});localStorage.setItem("cValue",JSON.stringify(price))}-1!=window.location.href.indexOf("htthanhtoan")&&(price=JSON.parse(localStorage.getItem("cValue")),window.dataLayer=window.dataLayer||[],window.dataLayer.push({cValue:price,event:"purchase_success"}));</script></body></html>

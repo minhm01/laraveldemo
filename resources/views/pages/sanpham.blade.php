@@ -40,7 +40,7 @@
     </form>
     <div class="clearfix"></div>
     <br>
-    <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.sieuthivienthong.com%2Ftong-dai-ip-grandstream-ucm6204-19810.html" target="_blank" title="Chia se tren Facebook"><img src="./Tổng đài IP Grandstream UCM6204 - SIEU THI VIEN THONG_files/share.png" alt="Chia se tren Facebook" border="0"></a></div>
+
     <div class="clearfix"></div>	
     <meta itemprop="url" content="{{URL::to('sanpham/'.$product->product_id)}}">
     <link itemprop="availability" href="http://schema.org/InStock">

@@ -8,7 +8,7 @@
 <div class="clearfix"></div>
 <ul class="list_prod_home" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
 	@foreach($cat_by_id as $key => $pro)
-	<li class="col-md-4 col-sm-6 col-xs-6 col-480-12" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><div class="row"><div class="box_prod_home"><div class="sub_prod_home"><div class="name_prod_home " itemprop="name"><a href="{{URL::to('sanpham/'.$pro->product_id)}}" target="detailWindow" title="" class="h_663">{{$pro->product_name}}</a></div><div class="clearfix-13"></div> <div class="code_prod_home">Mã số: {{$pro->product_id}}</div> <div class="des_prod_home">{{$pro->product_content}}</div><div style="text-align: left;" class="price_prod_home">Giá: <span class="nb_price_prod_home">{{$pro->product_price}} VND</span><div class="clearfix"></div>(Đã bao gồm VAT)</div><div class="img_prod_home"><div><a itemprop="url" href="{{URL::to('sanpham/'.$pro->product_id)}}" target="detailWindow" class="h_663"><img class="w_100" itemprop="image" src="{{asset('public/upload/product/'.$pro->product_image)}}" alt="{{$pro->product_name}}" title="" style="height: 112.45px;"></a></div><div class="clearfix"></div><div class="km_prod_home"><img style="width: 100px; height: 60px; position: absolute; left: 0px; bottom: 10px;" src="{{asset('public/upload/product/khuyenmai.png')}}" alt="" align="middle"><span class="saletext"><strong>Tặng ngay 100.000 đồng</strong></span></div></div></div></div><meta itemprop="priceCurrency" content="VND"><meta itemprop="price" content="{{$pro->product_price}}"><meta itemprop="availability" content="https://schema.org/InStock"><meta itemprop="itemCondition" content="New"><div itemprop="seller" itemtype="http://schema.org/Organization" itemscope=""><meta itemprop="name" content="Sieu Thi Vien Thong"></div></div></li>	
+	<li class="col-md-4 col-sm-6 col-xs-6 col-480-12" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer"><div class="row"><div class="box_prod_home"><div class="sub_prod_home"><div class="name_prod_home " itemprop="name"><a href="{{URL::to('sanpham/'.$pro->product_id)}}" target="detailWindow" title="" class="h_663">{{$pro->product_name}}</a></div><div class="clearfix-13"></div> <div class="code_prod_home">Mã số: {{$pro->product_id}}</div> <div class="des_prod_home">{{$pro->product_content}}</div><div style="text-align: left;" class="price_prod_home">Giá: <span class="nb_price_prod_home">{{$pro->product_price}} VND</span><div class="clearfix"></div>(Đã bao gồm VAT)</div><div class="img_prod_home"><div><a itemprop="url" href="{{URL::to('sanpham/'.$pro->product_id)}}" target="detailWindow" class="h_663"><img class="w_100" itemprop="image" src="{{asset('public/upload/product/'.$pro->product_image)}}" alt="{{$pro->product_name}}" title="" style="height: 112.45px;"></a></div><div class="clearfix"></div><div class="km_prod_home"><img style="width: 100px; height: 60px; position: absolute; left: 0px; bottom: 10px;" src="{{asset('public/upload/product/khuyenmai.png')}}" alt="" align="middle"><span class="saletext"><strong>Tặng ngay 100.000 đồng</strong></span></div></div></div></div><meta itemprop="priceCurrency" content="VND"><meta itemprop="price" content="{{$pro->product_price}}"><meta itemprop="availability" content="https://schema.org/InStock"><meta itemprop="itemCondition" content="New"><div itemprop="seller" itemtype="http://schema.org/Organization" itemscope=""></div></div></li>	
 	@endforeach
 </ul>
 @endsection
@@ -19,7 +19,7 @@
 		<div class="home_left">
 			<div class="menu_left">
 				<h2 class="tit_left  visible-xs visible-sm visible-md visible-lg">
-					<a href="https://www.sieuthivienthong.com/" title="Danh mục sản phẩm">Danh mục sản phẩm</a>
+					<a href="#" title="Danh mục sản phẩm">Danh mục sản phẩm</a>
 				</h2>
 				<div class="clearfix  visible-sm visible-md"></div>
 				<nav class="nav is-fixed" role="navigation" style="position: relative;z-index: 5;">
@@ -36,7 +36,7 @@
 			</div>
 			<div class="menu_left">
 				<h2 class="tit_left  visible-xs visible-sm visible-md visible-lg">
-					<a href="https://www.sieuthivienthong.com/" title="Thương hiệu sản phẩm">Thương hiệu sản phẩm</a>
+					<a href="#" title="Thương hiệu sản phẩm">Thương hiệu sản phẩm</a>
 				</h2>
 				<div class="clearfix  visible-sm visible-md"></div>
 				<nav class="nav is-fixed" role="navigation" style="position: relative;z-index: 5;">
