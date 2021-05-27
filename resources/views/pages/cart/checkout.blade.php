@@ -35,7 +35,7 @@
                     {{csrf_field()}}
                     <div class="col-md-6 headline">Thông tin khách hàng</div>
                     <div class="clearfix clearfix-13"></div>					
-                    <div class="col-md-2 imp"><font color="#FF0000" size="2">*</font>&nbsp;Tên họ:</div>
+                    <div class="col-md-2 imp"><font color="#FF0000" size="2">*</font>&nbsp;Họ tên:</div>
                     <div class="col-md-6"><input type="text" name="name" id="name" maxlength="60" required></div>
                     <div class="clearfix  clearfix-5"></div>
                     <div class="col-md-2 imp"><font color="#FF0000" size="2">*</font>&nbsp;Địa chỉ:</div>
